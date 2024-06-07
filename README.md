@@ -23,3 +23,11 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0125-valid-palindrome) |
+# Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0206-reverse-linked-list) |
+# Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0206-reverse-linked-list) |
