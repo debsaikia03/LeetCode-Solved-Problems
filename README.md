@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0020-valid-parentheses) |
+| [0155-min-stack](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0155-min-stack) |
 # Array
 |  |
 | ------- |
@@ -31,3 +32,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0206-reverse-linked-list) |
+# Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0155-min-stack) |
