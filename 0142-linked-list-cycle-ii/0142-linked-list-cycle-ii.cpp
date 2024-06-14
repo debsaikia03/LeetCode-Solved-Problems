@@ -14,7 +14,7 @@ public:
         if(head == NULL || head->next == NULL){
             return nullptr;
         }
-        
+
         ListNode *slow, *fast;
 
         slow = head;
@@ -27,7 +27,7 @@ public:
 
             if(fast == slow){
 
-                fast = head;
+                slow = head;
                 ListNode *pos = head;
 
                 while(fast != slow){
