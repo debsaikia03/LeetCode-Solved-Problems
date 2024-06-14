@@ -29,12 +29,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0011-container-with-most-water](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0011-container-with-most-water) |
 | [0125-valid-palindrome](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0142-linked-list-cycle-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 # Linked List
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0206-reverse-linked-list) |
 # Recursion
 |  |
@@ -53,3 +55,4 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0142-linked-list-cycle-ii) |
