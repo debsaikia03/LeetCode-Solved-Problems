@@ -18,8 +18,9 @@ struct ListNode* reverseList(struct ListNode* head) {
         curr->next = prev;
         prev = curr;
         curr = next;
-        head = prev;
     }
+
+    head = prev;
 
     return head;
 
