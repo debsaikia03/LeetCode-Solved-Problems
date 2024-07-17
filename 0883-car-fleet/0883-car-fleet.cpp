@@ -17,7 +17,7 @@ public:
 
             float time = it.second;
 
-            while(!st.empty() && (time >= st.top())) st.pop();
+            while(st.size() && (time >= st.top())) st.pop();
 
             st.push(time);
         }
