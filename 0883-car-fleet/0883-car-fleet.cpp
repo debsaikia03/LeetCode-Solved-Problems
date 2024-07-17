@@ -22,6 +22,6 @@ public:
         st.push(time); 
         }
 
-        return st.size();
+        return st.size(); //returns the sixe of the stack
     }
 };
