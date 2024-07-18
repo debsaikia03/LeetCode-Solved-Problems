@@ -98,4 +98,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0075-sort-colors) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0002-add-two-numbers) |
+## Math
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
