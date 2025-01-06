@@ -1,18 +1,24 @@
 class Solution {
 public:
     vector<int> twoSum(vector<int>& nums, int target) {
-        unordered_map<int,int> mp; //hash map with value and index
         
-        for(int i=0; i<nums.size(); i++){
-            int temp = target - nums[i];  //temp value for storing the second element 
-          
-            if(mp.find(temp) != mp.end()){ //finding the second element
-               return{mp[temp],i};   //if element found, return the two index
-            }
+        map<int,int> mpp;
 
-            mp.insert({nums[i],i}); //if element not found, insert the currrent value and index 
+        for(int i = 0; i<nums.size(); i++){
+
+            int a = nums[i];
+            int more = target - a;
+
+            if(mpp.find(more) != mpp.end()){
+
+                return {mpp[more], i};
+            }
+             
+            mpp[a] = i;
         }
 
-        return{}; //if element not found in the vector, return empty set
+        return {-1,-1};
+
+
     }
 };
