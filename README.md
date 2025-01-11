@@ -109,6 +109,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0015-3sum](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0075-sort-colors) |
+| [0148-sort-list](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0169-majority-element) |
 | [0455-assign-cookies](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0455-assign-cookies) |
 | [0883-car-fleet](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0883-car-fleet) |
@@ -123,12 +124,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0018-4sum](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0075-sort-colors) |
+| [0148-sort-list](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0148-sort-list) |
 | [0189-rotate-array](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0189-rotate-array) |
 | [0455-assign-cookies](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0455-assign-cookies) |
 ## Linked List
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0002-add-two-numbers) |
+| [0148-sort-list](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0148-sort-list) |
 ## Math
 |  |
 | ------- |
@@ -175,6 +178,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0053-maximum-subarray) |
+| [0148-sort-list](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0169-majority-element) |
 ## Hash Table
 |  |
@@ -185,4 +189,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0169-majority-element) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
