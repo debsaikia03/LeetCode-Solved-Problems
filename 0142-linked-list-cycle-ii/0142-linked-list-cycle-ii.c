@@ -24,8 +24,6 @@ struct ListNode *detectCycle(struct ListNode *head) {
 
     struct ListNode* dummy = head;
 
-    if(dummy == slow) return head;
-
     while(dummy != slow){
 
         dummy = dummy->next;
