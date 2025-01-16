@@ -129,6 +129,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0160-intersection-of-two-linked-lists](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0160-intersection-of-two-linked-lists) |
 | [0189-rotate-array](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0189-rotate-array) |
 | [0455-assign-cookies](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0455-assign-cookies) |
+| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Linked List
 |  |
 | ------- |
@@ -139,6 +140,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0160-intersection-of-two-linked-lists](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0206-reverse-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0328-odd-even-linked-list) |
+| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Math
 |  |
 | ------- |
