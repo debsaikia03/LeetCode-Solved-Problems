@@ -25,7 +25,7 @@ struct Node* copyRandomList(struct Node* head) {
         copyNode->random = NULL;
 
         temp->next = copyNode;
-        temp = copyNode->next;
+        temp = temp->next->next;
     }
 
     temp = head;
@@ -36,7 +36,7 @@ struct Node* copyRandomList(struct Node* head) {
 
         if(temp->random != NULL) copyNode->random = temp->random->next;
 
-        temp = copyNode->next;
+        temp = temp->next->next;
     }
 
     struct Node* dummyNode = (struct Node*)malloc(sizeof(struct Node));
