@@ -46,10 +46,8 @@ struct Node* copyRandomList(struct Node* head) {
     
     while(temp != NULL){
 
-        struct Node* copyNode = temp->next;
-        temp->next = copyNode->next;
-
-        res->next = copyNode;
+        res->next = temp->next;
+        temp->next = temp->next->next;
 
         res = res->next;
         temp = temp->next;
