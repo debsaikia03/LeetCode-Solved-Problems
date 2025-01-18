@@ -137,6 +137,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0002-add-two-numbers](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0002-add-two-numbers) |
 | [0025-reverse-nodes-in-k-group](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0025-reverse-nodes-in-k-group) |
 | [0061-rotate-list](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0061-rotate-list) |
+| [0138-copy-list-with-random-pointer](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0138-copy-list-with-random-pointer) |
 | [0142-linked-list-cycle-ii](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0160-intersection-of-two-linked-lists) |
@@ -197,6 +198,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0001-two-sum) |
+| [0138-copy-list-with-random-pointer](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0138-copy-list-with-random-pointer) |
 | [0142-linked-list-cycle-ii](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0169-majority-element) |
