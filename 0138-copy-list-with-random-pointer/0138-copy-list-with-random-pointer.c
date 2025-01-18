@@ -41,10 +41,6 @@ struct Node* copyRandomList(struct Node* head) {
 
     struct Node* dummyNode = (struct Node*)malloc(sizeof(struct Node));
 
-    dummyNode->val = -1;
-    dummyNode->next = NULL;
-    dummyNode->random = NULL;
-
     struct Node* res = dummyNode;
     temp = head;
     
