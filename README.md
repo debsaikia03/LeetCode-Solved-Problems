@@ -75,6 +75,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0018-4sum](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0033-search-in-rotated-sorted-array) |
+| [0046-permutations](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0046-permutations) |
 | [0053-maximum-subarray](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0053-maximum-subarray) |
 | [0074-search-a-2d-matrix](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0075-sort-colors) |
@@ -210,4 +211,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0148-sort-list) |
+## Backtracking
+|  |
+| ------- |
+| [0046-permutations](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0046-permutations) |
 <!---LeetCode Topics End-->
