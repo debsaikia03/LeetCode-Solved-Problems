@@ -74,6 +74,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0015-3sum](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0039-combination-sum](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0046-permutations) |
@@ -125,6 +126,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0015-3sum](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0027-remove-element) |
 | [0061-rotate-list](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0075-sort-colors) |
 | [0142-linked-list-cycle-ii](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0142-linked-list-cycle-ii) |
