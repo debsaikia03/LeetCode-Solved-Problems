@@ -1,10 +1,3 @@
-void swap (int *a, int *b){
-
-    int temp = *a;
-    *a = *b;
-    *b = temp;
-}
-
 int removeElement(int* nums, int numsSize, int val) {
 
     int k = 0;
