@@ -21,9 +21,7 @@ public:
 
             else{
 
-                string str = to_string(i);
-
-                list.push_back(str);
+                list.push_back(to_string(i));
             }
         }
 
