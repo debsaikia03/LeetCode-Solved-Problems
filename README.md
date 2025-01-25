@@ -161,6 +161,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0069-sqrtx](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0189-rotate-array) |
+| [0231-power-of-two](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0263-ugly-number) |
 | [0342-power-of-four](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0342-power-of-four) |
 | [0412-fizz-buzz](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0412-fizz-buzz) |
@@ -172,6 +173,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0025-reverse-nodes-in-k-group](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0025-reverse-nodes-in-k-group) |
 | [0050-powx-n](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0342-power-of-four) |
 ## Dynamic Programming
 |  |
@@ -238,5 +240,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0342-power-of-four) |
 <!---LeetCode Topics End-->
