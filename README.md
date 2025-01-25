@@ -163,6 +163,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0189-rotate-array](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0263-ugly-number) |
+| [0326-power-of-three](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0342-power-of-four) |
 | [0412-fizz-buzz](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0412-fizz-buzz) |
 | [0441-arranging-coins](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0441-arranging-coins) |
@@ -174,6 +175,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0050-powx-n](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0342-power-of-four) |
 ## Dynamic Programming
 |  |
