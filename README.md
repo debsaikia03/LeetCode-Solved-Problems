@@ -167,6 +167,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0342-power-of-four](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0342-power-of-four) |
 | [0412-fizz-buzz](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0412-fizz-buzz) |
 | [0441-arranging-coins](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0441-arranging-coins) |
+| [0492-construct-the-rectangle](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0492-construct-the-rectangle) |
 ## Recursion
 |  |
 | ------- |
