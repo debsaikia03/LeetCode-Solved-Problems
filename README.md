@@ -79,6 +79,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0035-search-insert-position](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0046-permutations) |
+| [0051-n-queens](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0053-maximum-subarray) |
 | [0074-search-a-2d-matrix](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0075-sort-colors) |
@@ -236,6 +237,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0039-combination-sum](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0046-permutations) |
+| [0051-n-queens](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0051-n-queens) |
 ## Simulation
 |  |
 | ------- |
