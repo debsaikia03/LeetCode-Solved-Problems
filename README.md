@@ -92,6 +92,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0322-coin-change](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0322-coin-change) |
 | [0455-assign-cookies](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0455-assign-cookies) |
 | [0518-coin-change-ii](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0518-coin-change-ii) |
+| [0561-array-partition](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0561-array-partition) |
 | [0883-car-fleet](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0883-car-fleet) |
 | [0907-koko-eating-bananas](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0907-koko-eating-bananas) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -123,6 +124,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0148-sort-list](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0169-majority-element) |
 | [0455-assign-cookies](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0455-assign-cookies) |
+| [0561-array-partition](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0561-array-partition) |
 | [0883-car-fleet](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0883-car-fleet) |
 ## Monotonic Stack
 |  |
@@ -212,6 +214,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0455-assign-cookies) |
+| [0561-array-partition](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0561-array-partition) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -258,4 +261,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0090-subsets-ii](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0090-subsets-ii) |
 | [0231-power-of-two](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0342-power-of-four) |
+## Counting Sort
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0561-array-partition) |
 <!---LeetCode Topics End-->
