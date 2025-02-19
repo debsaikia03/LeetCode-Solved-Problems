@@ -208,6 +208,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0014-longest-common-prefix) |
 | [0131-palindrome-partitioning](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0131-palindrome-partitioning) |
 | [0412-fizz-buzz](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0412-fizz-buzz) |
 | [1250-longest-common-subsequence](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/1250-longest-common-subsequence) |
@@ -275,4 +276,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0733-flood-fill](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0733-flood-fill) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
