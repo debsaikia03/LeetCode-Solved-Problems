@@ -171,6 +171,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0002-add-two-numbers](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0009-palindrome-number) |
+| [0012-integer-to-roman](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0062-unique-paths) |
@@ -212,6 +213,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
@@ -242,6 +244,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0001-two-sum) |
+| [0012-integer-to-roman](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0013-roman-to-integer) |
 | [0138-copy-list-with-random-pointer](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0138-copy-list-with-random-pointer) |
 | [0142-linked-list-cycle-ii](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0142-linked-list-cycle-ii) |
