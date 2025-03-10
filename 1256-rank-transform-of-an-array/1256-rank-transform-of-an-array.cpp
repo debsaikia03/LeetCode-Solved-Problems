@@ -5,7 +5,7 @@ public:
        vector<int> srtArr = arr;
        sort(srtArr.begin(), srtArr.end());
 
-        map<int, int> rank;
+        unordered_map<int, int> rank;
         int rankValue = 1;
 
         for(int i : srtArr){
