@@ -14,11 +14,9 @@ public:
 
         for(int i : arr2){
 
-            while(freq[i] > 0){
+            while(freq[i]-- > 0){
 
-                arr1[idx] = i;
-                idx++;
-                freq[i]--; 
+                arr1[idx++] = i;
             }
 
             freq.erase(i);
@@ -26,11 +24,9 @@ public:
 
         for(auto& [num, count]: freq){
 
-            while(count > 0){
+            while(count-- > 0){
 
-                arr1[idx] = num;
-                idx++;
-                count--;            
+                arr1[idx++] = num;            
             }
         }
 
