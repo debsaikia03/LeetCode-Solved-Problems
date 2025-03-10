@@ -98,6 +98,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0883-car-fleet](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0883-car-fleet) |
 | [0907-koko-eating-bananas](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0907-koko-eating-bananas) |
 | [0932-monotonic-array](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0932-monotonic-array) |
+| [1217-relative-sort-array](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/1217-relative-sort-array) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/2316-count-hills-and-valleys-in-an-array) |
@@ -133,6 +134,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0455-assign-cookies](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0561-array-partition) |
 | [0883-car-fleet](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0883-car-fleet) |
+| [1217-relative-sort-array](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/1217-relative-sort-array) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -250,6 +252,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0142-linked-list-cycle-ii](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0169-majority-element) |
+| [1217-relative-sort-array](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/1217-relative-sort-array) |
 | [3324-split-the-array](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/3324-split-the-array) |
 ## Counting
 |  |
@@ -285,6 +288,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0561-array-partition) |
+| [1217-relative-sort-array](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/1217-relative-sort-array) |
 ## Depth-First Search
 |  |
 | ------- |
