@@ -19,8 +19,7 @@ public:
             int v = node.second;
             st.erase(st.begin());
 
-            if(vis[v]) continue; // if the node is already visited then continue
-            vis[v] = 1; // mark the node as visited before processing its children
+
 
             for(auto child : g[v]) {
 
