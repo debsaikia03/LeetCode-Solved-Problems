@@ -96,6 +96,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0518-coin-change-ii](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0518-coin-change-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0561-array-partition](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0561-array-partition) |
+| [0724-find-pivot-index](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0733-flood-fill) |
 | [0883-car-fleet](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0883-car-fleet) |
 | [0907-koko-eating-bananas](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0907-koko-eating-bananas) |
@@ -335,4 +336,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0560-subarray-sum-equals-k) |
+| [0724-find-pivot-index](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0724-find-pivot-index) |
 <!---LeetCode Topics End-->
