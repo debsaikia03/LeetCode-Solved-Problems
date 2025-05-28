@@ -4,23 +4,27 @@ public:
 
         if(nums.empty()) return 0;
         
-        set<int> s(nums.begin(), nums.end());
-        vector<int> v(s.begin(), s.end());
+        unordered_set<int> s(nums.begin(), nums.end());
 
-        int len = 1, maxLen = 1;
+        int maxLen = 0;
 
-        for(int i = 1; i < v.size(); i++){
+        for(int i : s){
 
-            if(v[i] == v[i-1] + 1){
-                len++;
-            } else{
+            if(s.find(i-1) == s.end()){//only start if it's the start of a sequence
+
+                int currNum = i;
+                int len = 1;
+
+                while(s.find(currNum+1) != s.end()){
+                    
+                    currNum++;
+                    len++;
+                }
 
                 maxLen = max(maxLen, len);
-                len = 1;
             }
         }
-        
-        maxLen = max(maxLen, len);
+
 
         return maxLen;
     }
