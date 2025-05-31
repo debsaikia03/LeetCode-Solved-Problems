@@ -4,11 +4,14 @@ public:
 
         int maxProfit = 0;
         int minSoFar = prices[0];
+        
+        for(int i = 1; i < prices.size(); i++){
 
-        for(int i = 0; i < prices.size(); i++){
-            minSoFar = std::min(prices[i], minSoFar);
+            minSoFar = min(minSoFar, prices[i]);
+
             int profit = prices[i] - minSoFar;
-            maxProfit = std::max(profit, maxProfit);
+
+            maxProfit = max(maxProfit, profit);
         }
 
         return maxProfit;
