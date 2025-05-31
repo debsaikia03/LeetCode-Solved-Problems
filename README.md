@@ -106,6 +106,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0907-koko-eating-bananas](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0907-koko-eating-bananas) |
 | [0932-monotonic-array](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0932-monotonic-array) |
 | [0941-sort-array-by-parity](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0941-sort-array-by-parity) |
+| [0954-maximum-sum-circular-subarray](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0954-maximum-sum-circular-subarray) |
 | [0958-sort-array-by-parity-ii](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0958-sort-array-by-parity-ii) |
 | [1217-relative-sort-array](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/1217-relative-sort-array) |
 | [1256-rank-transform-of-an-array](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/1256-rank-transform-of-an-array) |
@@ -228,6 +229,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0198-house-robber](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0198-house-robber) |
 | [0322-coin-change](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0518-coin-change-ii) |
+| [0954-maximum-sum-circular-subarray](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0954-maximum-sum-circular-subarray) |
 | [1250-longest-common-subsequence](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/1250-longest-common-subsequence) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 ## Memoization
@@ -267,6 +269,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0053-maximum-subarray](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0053-maximum-subarray) |
 | [0148-sort-list](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0169-majority-element) |
+| [0954-maximum-sum-circular-subarray](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0954-maximum-sum-circular-subarray) |
 ## Hash Table
 |  |
 | ------- |
@@ -357,4 +360,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0128-longest-consecutive-sequence) |
+## Queue
+|  |
+| ------- |
+| [0954-maximum-sum-circular-subarray](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0954-maximum-sum-circular-subarray) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0954-maximum-sum-circular-subarray](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0954-maximum-sum-circular-subarray) |
 <!---LeetCode Topics End-->
