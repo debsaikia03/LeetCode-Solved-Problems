@@ -138,6 +138,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Stack
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0883-car-fleet](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0883-car-fleet) |
 ## Sorting
 |  |
@@ -333,6 +334,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0733-flood-fill](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0733-flood-fill) |
 | [0744-network-delay-time](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0744-network-delay-time) |
 ## Trie
@@ -385,4 +387,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0406-queue-reconstruction-by-height](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0406-queue-reconstruction-by-height) |
+## Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0094-binary-tree-inorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->
