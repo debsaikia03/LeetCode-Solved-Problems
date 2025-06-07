@@ -22,7 +22,7 @@ public:
 
         if(val <= node->val) insert(node->left, val);
 
-        if(val > node->val) insert(node->right, val);
+        else insert(node->right, val);
     }
     
 
