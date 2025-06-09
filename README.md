@@ -257,6 +257,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0014-longest-common-prefix](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0131-palindrome-partitioning](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0131-palindrome-partitioning) |
+| [0257-binary-tree-paths](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0257-binary-tree-paths) |
 | [0345-reverse-vowels-of-a-string](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0345-reverse-vowels-of-a-string) |
 | [0412-fizz-buzz](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0412-fizz-buzz) |
 | [1250-longest-common-subsequence](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/1250-longest-common-subsequence) |
@@ -320,6 +321,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0078-subsets](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0131-palindrome-partitioning) |
+| [0257-binary-tree-paths](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0257-binary-tree-paths) |
 ## Simulation
 |  |
 | ------- |
@@ -349,6 +351,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0144-binary-tree-preorder-traversal](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0145-binary-tree-postorder-traversal) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0257-binary-tree-paths](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0257-binary-tree-paths) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0543-diameter-of-binary-tree) |
 | [0733-flood-fill](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0733-flood-fill) |
@@ -415,6 +418,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0145-binary-tree-postorder-traversal](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0145-binary-tree-postorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0222-count-complete-tree-nodes) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0257-binary-tree-paths](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0257-binary-tree-paths) |
 | [0450-delete-node-in-a-bst](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0450-delete-node-in-a-bst) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0543-diameter-of-binary-tree) |
@@ -432,6 +436,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0145-binary-tree-postorder-traversal](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0145-binary-tree-postorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0222-count-complete-tree-nodes) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0257-binary-tree-paths](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0257-binary-tree-paths) |
 | [0450-delete-node-in-a-bst](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0450-delete-node-in-a-bst) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0543-diameter-of-binary-tree) |
