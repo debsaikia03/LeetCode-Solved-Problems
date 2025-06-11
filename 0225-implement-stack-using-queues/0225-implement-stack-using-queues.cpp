@@ -1,7 +1,7 @@
 class MyStack {
 
 private:
-   queue<int> q1, q2;
+   queue<int> q1; //using 1 queue
 
 public:
     MyStack() {
