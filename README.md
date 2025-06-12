@@ -101,6 +101,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0322-coin-change](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0322-coin-change) |
 | [0406-queue-reconstruction-by-height](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0406-queue-reconstruction-by-height) |
 | [0455-assign-cookies](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0455-assign-cookies) |
+| [0496-next-greater-element-i](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0496-next-greater-element-i) |
 | [0518-coin-change-ii](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0518-coin-change-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0561-array-partition](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0561-array-partition) |
@@ -144,6 +145,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0145-binary-tree-postorder-traversal](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0145-binary-tree-postorder-traversal) |
 | [0225-implement-stack-using-queues](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0232-implement-queue-using-stacks) |
+| [0496-next-greater-element-i](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0496-next-greater-element-i) |
 | [0883-car-fleet](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0883-car-fleet) |
 ## Sorting
 |  |
@@ -165,6 +167,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Monotonic Stack
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0496-next-greater-element-i) |
 | [0883-car-fleet](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0883-car-fleet) |
 ## Two Pointers
 |  |
@@ -301,6 +304,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0142-linked-list-cycle-ii](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0169-majority-element) |
+| [0496-next-greater-element-i](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0560-subarray-sum-equals-k) |
 | [1217-relative-sort-array](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/1217-relative-sort-array) |
 | [1256-rank-transform-of-an-array](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/1256-rank-transform-of-an-array) |
