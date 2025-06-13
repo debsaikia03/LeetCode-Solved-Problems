@@ -11,9 +11,8 @@ public:
 
             int idx = i % n;
 
-            while(!stk.empty() && nums[stk.top()] <= nums[idx]){
-                stk.pop();
-            }
+            while(!stk.empty() && nums[stk.top()] <= nums[idx]) stk.pop();
+            
 
             if(stk.empty()) ans[idx] = -1;
 
