@@ -78,6 +78,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0033-search-in-rotated-sorted-array](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0039-combination-sum) |
+| [0042-trapping-rain-water](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0053-maximum-subarray) |
@@ -141,6 +142,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0145-binary-tree-postorder-traversal) |
@@ -169,6 +171,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0503-next-greater-element-ii) |
 | [0883-car-fleet](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0883-car-fleet) |
@@ -180,6 +183,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0026-remove-duplicates-from-sorted-array](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0042-trapping-rain-water](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0075-sort-colors) |
 | [0142-linked-list-cycle-ii](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0142-linked-list-cycle-ii) |
@@ -239,6 +243,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0070-climbing-stairs) |
