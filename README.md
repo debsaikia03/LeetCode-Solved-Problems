@@ -121,6 +121,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/1927-maximum-ascending-subarray-sum) |
+| [2227-sum-of-subarray-ranges](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/2227-sum-of-subarray-ranges) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [3324-split-the-array](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/3324-split-the-array) |
 | [3429-special-array-i](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/3429-special-array-i) |
@@ -153,6 +154,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0503-next-greater-element-ii](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0503-next-greater-element-ii) |
 | [0883-car-fleet](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0883-car-fleet) |
 | [0943-sum-of-subarray-minimums](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0943-sum-of-subarray-minimums) |
+| [2227-sum-of-subarray-ranges](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/2227-sum-of-subarray-ranges) |
 ## Sorting
 |  |
 | ------- |
@@ -178,6 +180,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0503-next-greater-element-ii](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0503-next-greater-element-ii) |
 | [0883-car-fleet](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0883-car-fleet) |
 | [0943-sum-of-subarray-minimums](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0943-sum-of-subarray-minimums) |
+| [2227-sum-of-subarray-ranges](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/2227-sum-of-subarray-ranges) |
 ## Two Pointers
 |  |
 | ------- |
