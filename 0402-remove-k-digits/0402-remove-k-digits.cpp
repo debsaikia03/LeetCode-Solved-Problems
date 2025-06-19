@@ -24,10 +24,12 @@ public:
             stk.pop();
         }
 
+       //remove leading zeros 
         while (res.size()!= 0 && res.back() == '0') {
             res.pop_back();
         }
 
+    
         reverse(res.begin(), res.end());
 
         return res.empty() ? "0" : res;
