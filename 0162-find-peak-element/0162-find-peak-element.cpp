@@ -1,19 +1,23 @@
 class Solution {
 public:
     int findPeakElement(vector<int>& nums) {
+        int n = nums.size();
         
-        if(nums.size() == 1) return 0;
-
-        int idx = 0;
-
-        for(int i = 1; i < nums.size(); i++){
-            if(nums[i] > nums[i-1]){
-                idx = i;
+        int low = 0, high = n - 1;
+        
+        while(low < high) {
+            int mid = low + (high - low) / 2;
+            
+            if(nums[mid] > nums[mid + 1]) {
+                // You are in the descending part, move left
+                high = mid;
             } else {
-                break;
+                // You are in the ascending part, move right
+                low = mid + 1;
             }
         }
-
-        return idx;
+        
+        // low == high is the peak element index
+        return low;
     }
 };
