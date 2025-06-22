@@ -13,7 +13,7 @@ public:
                 high = mid;
             } else {
                 // You are in the ascending part, move right
-                low = mid + 1;
+                low = mid+1;
             }
         }
         
