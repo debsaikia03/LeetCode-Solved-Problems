@@ -106,6 +106,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0496-next-greater-element-i](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0503-next-greater-element-ii) |
 | [0518-coin-change-ii](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0518-coin-change-ii) |
+| [0540-single-element-in-a-sorted-array](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0561-array-partition](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0561-array-partition) |
 | [0724-find-pivot-index](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0724-find-pivot-index) |
@@ -138,6 +139,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0162-find-peak-element](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0162-find-peak-element) |
 | [0222-count-complete-tree-nodes](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0222-count-complete-tree-nodes) |
 | [0441-arranging-coins](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0441-arranging-coins) |
+| [0540-single-element-in-a-sorted-array](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0907-koko-eating-bananas) |
 ## Matrix
