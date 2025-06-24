@@ -28,6 +28,7 @@ public:
 
         int ans = high;
 
+        //binary search // least cpty ans -> range [max pkg wgt, sum of wgts of pkgs]
         while(low <= high){
             
             int mid = low + (high - low)/2;
