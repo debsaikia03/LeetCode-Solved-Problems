@@ -1,4 +1,17 @@
 class Solution {
+
+private:
+    bool canEatPiles(const std::vector<int>& piles, int h, int speed){
+        int hours = 0;
+
+        for(int i: piles){
+            hours += std::ceil(static_cast<double>(i) / speed);
+        }
+
+        return hours <= h;
+    }
+
+
 public:
     int minEatingSpeed(vector<int>& piles, int h) {
         
@@ -22,15 +35,6 @@ public:
         return minSpeed;
     }
     
-private:
-    bool canEatPiles(const std::vector<int>& piles, int h, int speed){
-        int hours = 0;
 
-        for(int i: piles){
-            hours += std::ceil(static_cast<double>(i) / speed);
-        }
-
-        return hours <= h;
-    }
     
 };
