@@ -298,6 +298,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0345-reverse-vowels-of-a-string](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0345-reverse-vowels-of-a-string) |
 | [0402-remove-k-digits](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0402-remove-k-digits) |
 | [0412-fizz-buzz](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0412-fizz-buzz) |
+| [0424-longest-repeating-character-replacement](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0424-longest-repeating-character-replacement) |
 | [1250-longest-common-subsequence](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/1250-longest-common-subsequence) |
 ## Combinatorics
 |  |
@@ -339,6 +340,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0146-lru-cache](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0169-majority-element) |
+| [0424-longest-repeating-character-replacement](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0496-next-greater-element-i](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0560-subarray-sum-equals-k) |
 | [1217-relative-sort-array](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/1217-relative-sort-array) |
@@ -428,6 +430,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0424-longest-repeating-character-replacement](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0424-longest-repeating-character-replacement) |
 | [1046-max-consecutive-ones-iii](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/1046-max-consecutive-ones-iii) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 ## Union Find
