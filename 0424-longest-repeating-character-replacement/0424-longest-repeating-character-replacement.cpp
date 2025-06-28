@@ -18,11 +18,6 @@ public:
 
             while((r - l + 1) - maxFreq > k){
                 mpp[s[l]]--;
-                maxFreq = 0;
-
-                for(const auto& [c, i] : mpp){
-                    maxFreq = max(maxFreq, i);
-                }
                 l++;
             }
 
