@@ -387,6 +387,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0222-count-complete-tree-nodes](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0342-power-of-four) |
+| [2323-minimum-bit-flips-to-convert-number](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/2323-minimum-bit-flips-to-convert-number) |
 ## Counting Sort
 |  |
 | ------- |
