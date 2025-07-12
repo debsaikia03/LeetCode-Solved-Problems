@@ -99,6 +99,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0169-majority-element](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0198-house-robber) |
+| [0204-count-primes](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0204-count-primes) |
 | [0283-move-zeroes](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0283-move-zeroes) |
 | [0322-coin-change](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0322-coin-change) |
 | [0406-queue-reconstruction-by-height](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0406-queue-reconstruction-by-height) |
@@ -249,6 +250,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0069-sqrtx](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0263-ugly-number) |
 | [0326-power-of-three](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0326-power-of-three) |
@@ -527,4 +529,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0146-lru-cache) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
