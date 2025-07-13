@@ -2,7 +2,39 @@ class Solution {
 public:
     string removeOuterParentheses(string s) {
         
-        stack<int>stk;
+
+        //counter based approach
+
+        string ans = "";
+
+        int counter = 0;
+
+        for(int i  = 0; i < s.size(); i++){
+
+            if(s[i] == '('){
+
+                if(counter != 0){
+
+                    counter++;
+                    ans += s[i];
+                } else{
+
+                    counter++;
+                }
+            } 
+            else{
+
+                counter--;
+                if(counter != 0){
+                    ans += s[i];
+                }
+            }           
+        }
+
+        return ans;
+
+        //stack based approach (tc- o(n) sc- o(n))
+        /*stack<int>stk;
 
         string ans = "";
 
@@ -17,6 +49,6 @@ public:
             }
         }
 
-        return ans;
+        return ans;*/
     }
 };
