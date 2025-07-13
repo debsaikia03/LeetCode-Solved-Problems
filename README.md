@@ -173,6 +173,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0503-next-greater-element-ii](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0503-next-greater-element-ii) |
 | [0883-car-fleet](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0883-car-fleet) |
 | [0943-sum-of-subarray-minimums](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0943-sum-of-subarray-minimums) |
+| [1078-remove-outermost-parentheses](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/1078-remove-outermost-parentheses) |
 | [2227-sum-of-subarray-ranges](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/2227-sum-of-subarray-ranges) |
 ## Sorting
 |  |
@@ -307,6 +308,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0402-remove-k-digits](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0402-remove-k-digits) |
 | [0412-fizz-buzz](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0412-fizz-buzz) |
 | [0424-longest-repeating-character-replacement](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0424-longest-repeating-character-replacement) |
+| [1078-remove-outermost-parentheses](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/1078-remove-outermost-parentheses) |
 | [1250-longest-common-subsequence](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/1250-longest-common-subsequence) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 ## Combinatorics
