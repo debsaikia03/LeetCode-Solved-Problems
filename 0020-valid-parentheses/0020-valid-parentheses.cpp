@@ -1,44 +1,29 @@
 class Solution {
 public:
-void push(char arr[], char ch,int &top){
-    top++;
-    arr[top] = ch;
-}
+    bool isValid(string s) {
 
-void pop(int &top){
-   top--;
-}
+        stack<char> stk;
+        
+        for (int i = 0; i < s.size(); i++) {
 
-bool isValid(string s) {
-    
-    int n = s.size();
+            char ch = s[i];
 
-    if(s.at(0) == ')' || s.at(0) == '}' || s.at(0) == ']' || n%2 != 0){
-        return false;
-    }
+            if (ch == '(' || ch == '[' || ch == '{') {
+                stk.push(ch);
+            } else {
+                if (stk.empty()) return false;
 
-    char arr[n];
+                char c = stk.top();
+                stk.pop();
 
-    int top=-1;
-
-    for(int i=0; i<n; i++){
-
-        push(arr,s.at(i),top);
-
-        if(top-1 != -1){
-        if(arr[top] == ')'  && arr[top-1] == '(' || arr[top] == '}' && arr[top-1] == '{' || arr[top] == ']'  && arr[top-1] == '[')
-        {
-            pop(top);
-            pop(top);
-        } 
+                if ((ch == ')' && c != '(') ||
+                    (ch == '}' && c != '{') ||
+                    (ch == ']' && c != '[')) {
+                    return false;
+                }
+            }            
         }
 
+        return stk.empty();
     }
-
-    if(top != -1){
-        return false;
-    }
-
-    return true;
-}
 };
