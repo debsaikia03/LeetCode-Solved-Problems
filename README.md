@@ -106,6 +106,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0322-coin-change](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0322-coin-change) |
 | [0406-queue-reconstruction-by-height](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0406-queue-reconstruction-by-height) |
 | [0455-assign-cookies](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0455-assign-cookies) |
+| [0485-max-consecutive-ones](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0503-next-greater-element-ii) |
 | [0518-coin-change-ii](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0518-coin-change-ii) |
