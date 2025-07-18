@@ -565,4 +565,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0204-count-primes) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
