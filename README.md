@@ -86,6 +86,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0056-merge-intervals](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0057-insert-interval) |
 | [0066-plus-one](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0066-plus-one) |
+| [0073-set-matrix-zeroes](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0078-subsets) |
@@ -161,6 +162,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Matrix
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0074-search-a-2d-matrix) |
 | [0733-flood-fill](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0733-flood-fill) |
 ## Stack
@@ -360,6 +362,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0003-longest-substring-without-repeating-characters](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0013-roman-to-integer) |
+| [0073-set-matrix-zeroes](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0128-longest-consecutive-sequence) |
 | [0138-copy-list-with-random-pointer](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0138-copy-list-with-random-pointer) |
 | [0142-linked-list-cycle-ii](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0142-linked-list-cycle-ii) |
