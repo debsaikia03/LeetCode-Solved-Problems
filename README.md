@@ -198,6 +198,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0242-valid-anagram](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0268-missing-number) |
 | [0406-queue-reconstruction-by-height](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0406-queue-reconstruction-by-height) |
+| [0451-sort-characters-by-frequency](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0561-array-partition) |
 | [0883-car-fleet](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0883-car-fleet) |
@@ -327,6 +328,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0402-remove-k-digits](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0402-remove-k-digits) |
 | [0412-fizz-buzz](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0412-fizz-buzz) |
 | [0424-longest-repeating-character-replacement](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0424-longest-repeating-character-replacement) |
+| [0451-sort-characters-by-frequency](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0451-sort-characters-by-frequency) |
 | [0812-rotate-string](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0812-rotate-string) |
 | [1078-remove-outermost-parentheses](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/1078-remove-outermost-parentheses) |
 | [1250-longest-common-subsequence](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/1250-longest-common-subsequence) |
@@ -378,6 +380,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0242-valid-anagram](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0268-missing-number) |
 | [0424-longest-repeating-character-replacement](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0424-longest-repeating-character-replacement) |
+| [0451-sort-characters-by-frequency](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0966-binary-subarrays-with-sum](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0966-binary-subarrays-with-sum) |
@@ -390,6 +393,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0169-majority-element) |
+| [0451-sort-characters-by-frequency](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0451-sort-characters-by-frequency) |
 | [3324-split-the-array](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/3324-split-the-array) |
 ## Merge Sort
 |  |
@@ -461,6 +465,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0451-sort-characters-by-frequency) |
 | [0744-network-delay-time](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0744-network-delay-time) |
 ## Shortest Path
 |  |
@@ -582,4 +587,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0197-rising-temperature](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0197-rising-temperature) |
 | [0577-employee-bonus](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0577-employee-bonus) |
 | [1179-game-play-analysis-i](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/1179-game-play-analysis-i) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
