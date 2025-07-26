@@ -339,6 +339,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1250-longest-common-subsequence](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/1250-longest-common-subsequence) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
+| [1890-sum-of-beauty-of-all-substrings](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2032-largest-odd-number-in-string](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/2032-largest-odd-number-in-string) |
 ## Combinatorics
 |  |
@@ -394,12 +395,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1256-rank-transform-of-an-array](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/1256-rank-transform-of-an-array) |
 | [1370-count-number-of-nice-subarrays](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1890-sum-of-beauty-of-all-substrings](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [3324-split-the-array](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/3324-split-the-array) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0169-majority-element) |
 | [0451-sort-characters-by-frequency](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0451-sort-characters-by-frequency) |
+| [1890-sum-of-beauty-of-all-substrings](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [3324-split-the-array](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/3324-split-the-array) |
 ## Merge Sort
 |  |
