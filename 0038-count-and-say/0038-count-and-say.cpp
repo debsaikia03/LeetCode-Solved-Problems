@@ -4,11 +4,7 @@ public:
         
         string ans = "1";
 
-        if(n == 1) return ans;
-
-        n--;
-
-        while(n--){
+        while(--n){
 
             string temp = "";
             int i = 0;
