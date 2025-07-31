@@ -336,6 +336,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0412-fizz-buzz](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0412-fizz-buzz) |
 | [0424-longest-repeating-character-replacement](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0451-sort-characters-by-frequency) |
+| [0686-repeated-string-match](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0686-repeated-string-match) |
 | [0812-rotate-string](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0812-rotate-string) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1078-remove-outermost-parentheses](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/1078-remove-outermost-parentheses) |
@@ -470,6 +471,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0686-repeated-string-match](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0686-repeated-string-match) |
 | [0812-rotate-string](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0812-rotate-string) |
 ## Graph
 |  |
