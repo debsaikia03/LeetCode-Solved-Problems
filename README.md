@@ -206,6 +206,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0883-car-fleet](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0883-car-fleet) |
 | [0941-sort-array-by-parity](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0958-sort-array-by-parity-ii) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1217-relative-sort-array](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/1217-relative-sort-array) |
 | [1256-rank-transform-of-an-array](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/1256-rank-transform-of-an-array) |
 ## Monotonic Stack
@@ -371,6 +372,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0322-coin-change](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0322-coin-change) |
 | [0733-flood-fill](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0733-flood-fill) |
 | [0744-network-delay-time](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0744-network-delay-time) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -400,6 +402,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0496-next-greater-element-i](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0966-binary-subarrays-with-sum](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0966-binary-subarrays-with-sum) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1217-relative-sort-array](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/1217-relative-sort-array) |
 | [1256-rank-transform-of-an-array](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/1256-rank-transform-of-an-array) |
 | [1370-count-number-of-nice-subarrays](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/1370-count-number-of-nice-subarrays) |
@@ -469,6 +472,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0543-diameter-of-binary-tree](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0543-diameter-of-binary-tree) |
 | [0733-flood-fill](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0733-flood-fill) |
 | [0744-network-delay-time](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0744-network-delay-time) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Trie
 |  |
 | ------- |
@@ -554,6 +558,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0543-diameter-of-binary-tree](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0543-diameter-of-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0784-insert-into-a-binary-search-tree) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -576,6 +581,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0543-diameter-of-binary-tree](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0543-diameter-of-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0784-insert-into-a-binary-search-tree) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
