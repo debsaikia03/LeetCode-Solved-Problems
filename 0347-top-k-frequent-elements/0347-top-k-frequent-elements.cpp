@@ -9,22 +9,24 @@ public:
             mpp[num]++;
         }
 
-        auto cmp =[&](int a, int b){
-            return mpp[a] < mpp[b];
+        auto cmp =[&](pair<int, int> a, pair<int, int> b){
+            return a.second > b.second; //min-heap by freq
         };
 
-        priority_queue<int, vector<int>, decltype(cmp)> pq(cmp);
+        priority_queue<pair<int,int>, vector<pair<int, int>>, decltype(cmp)> pq(cmp);
 
         for(auto& p : mpp){
 
-            pq.push(p.first);
+            pq.push({p.first, p.second});
+
+            if(pq.size() > k) pq.pop();
         }
 
         vector<int> ans;
 
-        while(k--){
+        while(!pq.empty()){
 
-            ans.push_back(pq.top());
+            ans.push_back(pq.top().first);
             pq.pop();
         }
 
