@@ -514,6 +514,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0451-sort-characters-by-frequency](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0621-task-scheduler) |
 | [0744-network-delay-time](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0744-network-delay-time) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Shortest Path
 |  |
 | ------- |
@@ -581,6 +582,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0543-diameter-of-binary-tree](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0543-diameter-of-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0784-insert-into-a-binary-search-tree) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Tree
 |  |
@@ -605,6 +607,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0543-diameter-of-binary-tree](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0543-diameter-of-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0784-insert-into-a-binary-search-tree) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Search Tree
 |  |
@@ -615,12 +618,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0501-find-mode-in-binary-search-tree](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0784-insert-into-a-binary-search-tree) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Design
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0146-lru-cache) |
 | [0225-implement-stack-using-queues](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0232-implement-queue-using-stacks) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -652,4 +657,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0215-kth-largest-element-in-an-array) |
+## Data Stream
+|  |
+| ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0789-kth-largest-element-in-a-stream) |
 <!---LeetCode Topics End-->
