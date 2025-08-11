@@ -1,52 +1,36 @@
 class Solution {
 public:
+    vector<vector<int>> combinationSum(vector<int>& candidates, int target) {
 
-    set<vector<int>> s;
+        sort(candidates.begin(), candidates.end());
+        
+        vector<vector<int>> result;
 
-    void getAllCombin(vector<int>& candidates, int idx, int target, vector<int>& combin,  vector<vector<int>>& ans){
+        vector<int> path;
 
-        //base cases
-        if(idx == candidates.size() || target < 0){
+        combinationSum(candidates, 0, target, path, result);
 
-            return;
-        }
+        return result;
+    }
+
+private:
+     
+    void combinationSum(vector<int>& candidates, int start, int target, vector<int>& path, vector<vector<int>>& result){
 
         if(target == 0){
-            
-            if(s.find(combin) == s.end()){
 
-                ans.push_back(combin);
-                s.insert(combin);
-            }
-            
+            result.push_back(path);
+
             return;
         }
 
-        combin.push_back(candidates[idx]);
+        if(target < 0) return;
 
-        //include single time
-        getAllCombin(candidates, idx+1, target - candidates[idx], combin, ans);
+        for(int i = start; i < candidates.size(); i++){
 
-        //include multiple times
-        getAllCombin(candidates, idx, target - candidates[idx], combin, ans);
-
-        //exclude 
-        combin.pop_back(); //backtracking since number excluded
-        getAllCombin(candidates, idx+1, target, combin, ans);
-
-
-    }
-    
-    
-    vector<vector<int>> combinationSum(vector<int>& candidates, int target) {
-        
-        vector<vector<int>> ans;
-
-        vector<int> combin;
-
-        getAllCombin(candidates, 0, target, combin, ans);
-
-        return ans;
-
+            path.push_back(candidates[i]);
+            combinationSum(candidates, i, target - candidates[i], path, result);
+            path.pop_back();
+        }
     }
 };
