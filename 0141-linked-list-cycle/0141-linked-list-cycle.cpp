@@ -8,19 +8,19 @@
  */
 class Solution {
 public:
-    bool hasCycle(ListNode* head) {
-        struct ListNode *slow, *fast;
+    bool hasCycle(ListNode *head) {
 
-        slow = head;
-        fast = head;
+        if(!head || !head->next) return false; 
+        
+        ListNode* slow = head;
+        ListNode* fast = head;
 
-        while(fast != NULL && fast->next != NULL){
-            fast = fast->next->next;
+        while(fast && fast->next){
+
             slow = slow->next;
+            fast = fast->next->next;
 
-            if(fast == slow){
-                return true;
-            }
+            if(slow == fast) return true;
         }
 
         return false;
