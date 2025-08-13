@@ -272,6 +272,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0206-reverse-linked-list](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0328-odd-even-linked-list) |
+| [0838-design-linked-list](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0838-design-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0908-middle-of-the-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Math
@@ -639,6 +640,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0225-implement-stack-using-queues](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0232-implement-queue-using-stacks) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0838-design-linked-list](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0838-design-linked-list) |
 ## Doubly-Linked List
 |  |
 | ------- |
