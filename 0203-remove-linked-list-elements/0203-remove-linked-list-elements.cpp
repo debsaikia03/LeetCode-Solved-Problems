@@ -14,7 +14,7 @@ ListNode* removeElements(ListNode* head, int val) {
 
     // Step 1: Remove all starting nodes that have the value 'val'
     // This ensures 'head' points to the first node we want to keep
-    while (head != nullptr && head->val == val) {
+    while (head && head->val == val) {
         head = head->next; // Move forward until head is valid or list becomes empty
     }
 
@@ -22,7 +22,7 @@ ListNode* removeElements(ListNode* head, int val) {
     ListNode* r = head;
 
     // Step 2: Traverse the rest of the list
-    while (head != nullptr && head->next != nullptr) {
+    while (head && head->next) {
         
         if (head->next->val == val) {
             // Found a node to remove: skip it by linking to the node after it
