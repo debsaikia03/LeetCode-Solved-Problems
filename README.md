@@ -676,6 +676,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0577-employee-bonus](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0577-employee-bonus) |
 | [0584-find-customer-referee](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0584-find-customer-referee) |
 | [1179-game-play-analysis-i](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/1179-game-play-analysis-i) |
+| [1908-recyclable-and-low-fat-products](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/1908-recyclable-and-low-fat-products) |
 ## Bucket Sort
 |  |
 | ------- |
