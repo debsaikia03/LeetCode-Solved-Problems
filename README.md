@@ -366,6 +366,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0257-binary-tree-paths](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0257-binary-tree-paths) |
 | [0344-reverse-string](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0345-reverse-vowels-of-a-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0402-remove-k-digits](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0402-remove-k-digits) |
 | [0412-fizz-buzz](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0412-fizz-buzz) |
 | [0424-longest-repeating-character-replacement](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0424-longest-repeating-character-replacement) |
@@ -437,6 +438,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0242-valid-anagram](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0347-top-k-frequent-elements) |
+| [0387-first-unique-character-in-a-string](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0496-next-greater-element-i) |
@@ -458,6 +460,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0169-majority-element](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0347-top-k-frequent-elements) |
+| [0387-first-unique-character-in-a-string](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0621-task-scheduler) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/1890-sum-of-beauty-of-all-substrings) |
@@ -575,6 +578,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0232-implement-queue-using-stacks) |
+| [0387-first-unique-character-in-a-string](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0954-maximum-sum-circular-subarray](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0954-maximum-sum-circular-subarray) |
 ## Monotonic Queue
 |  |
