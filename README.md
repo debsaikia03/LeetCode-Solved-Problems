@@ -260,6 +260,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0958-sort-array-by-parity-ii](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0958-sort-array-by-parity-ii) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2481-strictly-palindromic-number](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/2481-strictly-palindromic-number) |
 ## Linked List
 |  |
 | ------- |
@@ -310,6 +311,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0492-construct-the-rectangle](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0492-construct-the-rectangle) |
 | [1370-count-number-of-nice-subarrays](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/1370-count-number-of-nice-subarrays) |
 | [2032-largest-odd-number-in-string](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/2032-largest-odd-number-in-string) |
+| [2481-strictly-palindromic-number](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/2481-strictly-palindromic-number) |
 ## Recursion
 |  |
 | ------- |
@@ -714,4 +716,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1203-print-in-order](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/1203-print-in-order) |
+## Brainteaser
+|  |
+| ------- |
+| [2481-strictly-palindromic-number](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/2481-strictly-palindromic-number) |
 <!---LeetCode Topics End-->
