@@ -1,67 +1,24 @@
 class Solution {
 public:
-
-    vector<int> buildLPS(string pattern){
-
-        int n = pattern.size();
-
-        vector<int> lps(n, 0);
-
-        int len = 0; //length of prev longest prefix suffix
-
-        int i = 1;
-
-        while(i < n){
-
-            if(pattern[len] == pattern[i]){
-
-                len++;
-                lps[i] = len;
-                i++;
-            } else{
-
-                if(len != 0) {
-
-                    len = lps[len-1];
-                } else {
-
-                    lps[i] = 0;
-                    i++;
-                }
-            }
-        }
-
-        return lps;
-    }
-
     int strStr(string haystack, string needle) {
 
-        if(needle.empty()) return 0;
+        int n = 0;
+        
+        for(int i = 0; i < haystack.size(); i++){
 
-        vector<int> lps = buildLPS(needle);
+            if(haystack[i] == needle[n]){
 
-        int i = 0, j = 0;
+                n++;
 
-        while(i < haystack.size()){
+                if(n == needle.length()){
 
-            if(haystack[i] == needle[j]){
-
-                i++;
-                j++;
-            }
-
-            if(j == needle.size()){
-
-                return i - j;
-            } else if(i < haystack.size() && haystack[i] != needle[j]){
-
-                if(j != 0){
-                    j = lps[j - 1];
-                }else{
-                   i++;
+                    return i - n + 1;
                 }
-            }
+            } else {
 
+                i = i - n;
+                n = 0;
+            }
         }
 
         return -1;
