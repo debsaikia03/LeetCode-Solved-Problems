@@ -1,8 +1,17 @@
 class Solution {
 public:
     int singleNumber(vector<int>& nums) {
+
+
+        int ans = 0;
+        for(int num : nums){
+
+            ans = ans ^ num;
+        }
+
+        return ans;
         
-        unordered_map<int, int> mpp;
+        /*unordered_map<int, int> mpp;
 
         for(int i = 0; i < nums.size(); i++){
 
@@ -16,6 +25,6 @@ public:
             }
         }
 
-        return -1;
+        return -1;*/
     }
 };
