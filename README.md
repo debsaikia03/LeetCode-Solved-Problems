@@ -87,6 +87,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0054-spiral-matrix](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0057-insert-interval) |
+| [0059-spiral-matrix-ii](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0059-spiral-matrix-ii) |
 | [0066-plus-one](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0074-search-a-2d-matrix) |
@@ -176,6 +177,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0048-rotate-image](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0074-search-a-2d-matrix) |
 | [0733-flood-fill](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0733-flood-fill) |
@@ -497,6 +499,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0059-spiral-matrix-ii) |
 | [0412-fizz-buzz](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0412-fizz-buzz) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Bit Manipulation
