@@ -2,6 +2,8 @@ class Solution {
 public:
     vector<int> searchRange(vector<int>& nums, int target) {
 
+        //optimal solution -> O(logn) in java
+
         if(nums.empty()){
 
             return {-1,-1};
