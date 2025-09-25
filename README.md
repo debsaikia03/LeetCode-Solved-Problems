@@ -112,6 +112,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0283-move-zeroes](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0283-move-zeroes) |
 | [0322-coin-change](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0406-queue-reconstruction-by-height](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0406-queue-reconstruction-by-height) |
 | [0455-assign-cookies](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0455-assign-cookies) |
@@ -167,6 +168,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0162-find-peak-element](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0162-find-peak-element) |
 | [0222-count-complete-tree-nodes](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0441-arranging-coins](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0441-arranging-coins) |
 | [0540-single-element-in-a-sorted-array](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0792-binary-search) |
@@ -217,6 +219,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0242-valid-anagram](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0406-queue-reconstruction-by-height](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0406-queue-reconstruction-by-height) |
 | [0451-sort-characters-by-frequency](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0455-assign-cookies) |
@@ -262,6 +265,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0283-move-zeroes](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0345-reverse-vowels-of-a-string) |
+| [0349-intersection-of-two-arrays](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0455-assign-cookies) |
 | [0908-middle-of-the-linked-list](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0908-middle-of-the-linked-list) |
 | [0941-sort-array-by-parity](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0941-sort-array-by-parity) |
@@ -454,6 +458,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0242-valid-anagram](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0383-ransom-note](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0409-longest-palindrome) |
