@@ -1,25 +1,5 @@
 class Solution {
 public:
-
-    bool comparator(string first, string second){
-
-        string str1 = first+second;
-        string str2 = second+first;
-
-        int i = 0;
-        while(str1[i] && str2[i]){
-
-            if(str1[i] > str2[i]){
-
-                return true;
-            }else if(str1[i] < str2[i])
-                return false;
-
-            i++;
-        }
-
-        return false;
-    }
     
     string largestNumber(vector<int>& nums) {
 
