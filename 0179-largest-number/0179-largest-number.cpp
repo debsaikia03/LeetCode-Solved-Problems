@@ -11,7 +11,8 @@ public:
 
         sort(str.begin(), str.end(), [](string &a, string &b){
 
-            return a + b > b + a;
+            return a + b > b + a; //returns true, a placed before b
+                                  //return false, a placed after b
         });
 
         if(str[0] == "0") return "0";
