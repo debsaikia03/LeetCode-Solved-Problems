@@ -34,6 +34,7 @@ public:
 
         int n = nums3.size();
 
+        //median
         if(n % 2 == 1){
 
             return nums3[n/2];
