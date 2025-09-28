@@ -115,6 +115,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0215-kth-largest-element-in-an-array](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0283-move-zeroes) |
+| [0300-longest-increasing-subsequence](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0349-intersection-of-two-arrays) |
@@ -176,6 +177,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0162-find-peak-element](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0162-find-peak-element) |
 | [0222-count-complete-tree-nodes](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0268-missing-number) |
+| [0300-longest-increasing-subsequence](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0300-longest-increasing-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0441-arranging-coins](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0441-arranging-coins) |
@@ -371,6 +373,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0131-palindrome-partitioning](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0131-palindrome-partitioning) |
 | [0198-house-robber](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0213-house-robber-ii) |
+| [0300-longest-increasing-subsequence](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0518-coin-change-ii) |
 | [0943-sum-of-subarray-minimums](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0943-sum-of-subarray-minimums) |
