@@ -347,6 +347,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2032-largest-odd-number-in-string](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/2032-largest-odd-number-in-string) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2481-strictly-palindromic-number](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/2481-strictly-palindromic-number) |
+| [3336-water-bottles-ii](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/3336-water-bottles-ii) |
 ## Recursion
 |  |
 | ------- |
@@ -548,6 +549,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0412-fizz-buzz](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0412-fizz-buzz) |
 | [1642-water-bottles](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/1642-water-bottles) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/2271-rearrange-array-elements-by-sign) |
+| [3336-water-bottles-ii](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/3336-water-bottles-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
