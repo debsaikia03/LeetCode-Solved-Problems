@@ -123,6 +123,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0350-intersection-of-two-arrays-ii](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0406-queue-reconstruction-by-height](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0406-queue-reconstruction-by-height) |
+| [0407-trapping-rain-water-ii](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0407-trapping-rain-water-ii) |
 | [0455-assign-cookies](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0496-next-greater-element-i) |
@@ -198,6 +199,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0059-spiral-matrix-ii](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0074-search-a-2d-matrix) |
+| [0407-trapping-rain-water-ii](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0407-trapping-rain-water-ii) |
 | [0733-flood-fill](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0733-flood-fill) |
 ## Stack
 |  |
@@ -460,6 +462,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0111-minimum-depth-of-binary-tree](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0199-binary-tree-right-side-view) |
 | [0322-coin-change](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0322-coin-change) |
+| [0407-trapping-rain-water-ii](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0407-trapping-rain-water-ii) |
 | [0733-flood-fill](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0733-flood-fill) |
 | [0744-network-delay-time](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0744-network-delay-time) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -613,6 +616,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0215-kth-largest-element-in-an-array](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0347-top-k-frequent-elements) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0373-find-k-pairs-with-smallest-sums) |
+| [0407-trapping-rain-water-ii](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0407-trapping-rain-water-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0621-task-scheduler) |
 | [0744-network-delay-time](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0744-network-delay-time) |
