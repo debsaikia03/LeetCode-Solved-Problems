@@ -2,29 +2,26 @@ class Solution {
 public:
     int maxArea(vector<int>& height) {
         
-        int l = 0;
-        int r = height.size()-1;
-        int max_area = 0;
+        int i = 0, j = height.size() - 1;
 
-        while(l < r){
-            int height1 = std::min(height[l],height[r]);
-            int width = r-l;
-            int area = height1 * width;
+        int mxArea = 0;
 
-            max_area = std::max(area,max_area);
+        while(i < j){
 
-            if(height[l] < height[r]){
-                l++;
-            }
-            else if(height[r] < height[l]){
-                r--;
-            }
-            else{
-                l++;
-                r--;
+            int area = 0;
+            if(height[i] < height[j]){
+ 
+                area = height[i] * (j - i);
+                i++;
+                mxArea = max(mxArea, area);
+            } else{
+
+                area = height[j] * (j - i);
+                j--;
+                mxArea = max(mxArea, area); 
             }
         }
 
-        return max_area;
+        return mxArea;
     }
 };
