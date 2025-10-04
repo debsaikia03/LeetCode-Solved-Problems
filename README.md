@@ -72,6 +72,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0001-two-sum](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0004-median-of-two-sorted-arrays) |
+| [0011-container-with-most-water](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0018-4sum) |
@@ -267,6 +268,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0005-longest-palindromic-substring) |
+| [0011-container-with-most-water](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -437,6 +439,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0011-container-with-most-water) |
 | [0045-jump-game-ii](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
