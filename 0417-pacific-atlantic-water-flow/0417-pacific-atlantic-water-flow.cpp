@@ -72,7 +72,7 @@ public:
 
         if(row == 0) return res;
 
-        vector<vector<int>>grid(row, vector<int>(col, 0)); //storing whether cell has visited pacific or atlantic or both 
+        vector<vector<int>>grid(row, vector<int>(col, 0)); //storing whether cell has visited pacific or atlantic
 
         for(int i = 0; i < row; i++){
             for(int j = 0; j < col; j++){
