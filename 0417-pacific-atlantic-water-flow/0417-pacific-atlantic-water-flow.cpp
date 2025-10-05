@@ -74,6 +74,7 @@ public:
 
         vector<vector<int>>grid(row, vector<int>(col, 0)); //storing whether cell has visited pacific or atlantic
 
+        //pacific: top row & left col
         for(int i = 0; i < row; i++){
             for(int j = 0; j < col; j++){
 
@@ -84,6 +85,7 @@ public:
             }
         }
 
+        //atlantic: bottom row & right col
         for(int i = 0; i < row; i++){
             for(int j = 0; j < col; j++){
 
