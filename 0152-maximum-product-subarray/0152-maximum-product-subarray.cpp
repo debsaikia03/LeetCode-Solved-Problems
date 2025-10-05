@@ -8,7 +8,6 @@ public:
 
         for(int i = 0; i < n; i++){
 
-
             if(prefixSum == 0) prefixSum = 1;
             if(suffixSum == 0) suffixSum = 1;
 
