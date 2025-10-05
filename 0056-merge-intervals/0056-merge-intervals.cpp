@@ -11,7 +11,7 @@ public:
 
             vector<int>& last = merge.back();
 
-            if(intervals[i][0] <= last[1]) last[1] = max(last[1], intervals[i][1]);
+            if(intervals[i][0] <= last[1]) last[1] = max(last[1], intervals[i][1]); //updating the already pushed interval 
 
             else merge.push_back(intervals[i]);
         }
