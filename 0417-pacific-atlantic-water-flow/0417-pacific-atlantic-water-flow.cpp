@@ -3,6 +3,7 @@ public:
 
     vector<vector<int>> res;
 
+    //dfs implementation - stack ny recursion
     void pacificEdge(vector<vector<int>>& heights, int r, int c, vector<vector<int>>& grid){
        
         int row = heights.size();
@@ -94,5 +95,12 @@ public:
         }
 
         return res;
+
+        //tc-sc: o(m x n)
+
+        //alternate approach
+        //maintain 2 visited grids for pacific & atlantic
+        //do dfs - only 1 function reqd
+        //return the cells marked both visited 
     }
 };
