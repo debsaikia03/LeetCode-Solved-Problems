@@ -98,7 +98,7 @@ public:
 
         return res;
 
-        //tc-sc: o(m x n)
+        //tc & sc: o(m x n)
 
         //alternate approach
         //maintain 2 visited grids for pacific & atlantic
