@@ -3,7 +3,7 @@ public:
 
     vector<vector<int>> res;
 
-    //dfs implementation - stack ny recursion
+    //dfs implementation - stack by recursion
     void pacificEdge(vector<vector<int>>& heights, int r, int c, vector<vector<int>>& grid){
        
         int row = heights.size();
