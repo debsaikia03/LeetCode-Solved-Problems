@@ -140,6 +140,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0724-find-pivot-index](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0733-flood-fill) |
 | [0792-binary-search](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0792-binary-search) |
+| [0794-swim-in-rising-water](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0794-swim-in-rising-water) |
 | [0835-linked-list-components](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0835-linked-list-components) |
 | [0876-hand-of-straights](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0876-hand-of-straights) |
 | [0883-car-fleet](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0883-car-fleet) |
@@ -189,6 +190,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0540-single-element-in-a-sorted-array](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0540-single-element-in-a-sorted-array) |
 | [0611-valid-triangle-number](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0611-valid-triangle-number) |
 | [0792-binary-search](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0792-binary-search) |
+| [0794-swim-in-rising-water](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0794-swim-in-rising-water) |
 | [0907-koko-eating-bananas](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0907-koko-eating-bananas) |
 | [1046-max-consecutive-ones-iii](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/1056-capacity-to-ship-packages-within-d-days) |
@@ -205,6 +207,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0407-trapping-rain-water-ii](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0417-pacific-atlantic-water-flow) |
 | [0733-flood-fill](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0733-flood-fill) |
+| [0794-swim-in-rising-water](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0794-swim-in-rising-water) |
 ## Stack
 |  |
 | ------- |
@@ -476,6 +479,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0417-pacific-atlantic-water-flow](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0417-pacific-atlantic-water-flow) |
 | [0733-flood-fill](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0733-flood-fill) |
 | [0744-network-delay-time](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0744-network-delay-time) |
+| [0794-swim-in-rising-water](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0794-swim-in-rising-water) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Divide and Conquer
 |  |
@@ -608,6 +612,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0543-diameter-of-binary-tree](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0543-diameter-of-binary-tree) |
 | [0733-flood-fill](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0733-flood-fill) |
 | [0744-network-delay-time](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0744-network-delay-time) |
+| [0794-swim-in-rising-water](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0794-swim-in-rising-water) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Trie
 |  |
@@ -635,6 +640,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0621-task-scheduler](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0621-task-scheduler) |
 | [0744-network-delay-time](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0744-network-delay-time) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0794-swim-in-rising-water](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0794-swim-in-rising-water) |
 ## Shortest Path
 |  |
 | ------- |
@@ -662,6 +668,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0128-longest-consecutive-sequence) |
+| [0794-swim-in-rising-water](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0794-swim-in-rising-water) |
 ## Queue
 |  |
 | ------- |
