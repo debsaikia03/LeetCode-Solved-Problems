@@ -159,6 +159,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
+| [1612-avoid-flood-in-the-city](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/1612-avoid-flood-in-the-city) |
 | [1646-kth-missing-positive-number](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/1646-kth-missing-positive-number) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/1927-maximum-ascending-subarray-sum) |
@@ -195,6 +196,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1046-max-consecutive-ones-iii](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
+| [1612-avoid-flood-in-the-city](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/1612-avoid-flood-in-the-city) |
 | [1646-kth-missing-positive-number](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/1646-kth-missing-positive-number) |
 ## Matrix
 |  |
@@ -463,6 +465,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0876-hand-of-straights](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0876-hand-of-straights) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
+| [1612-avoid-flood-in-the-city](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/1612-avoid-flood-in-the-city) |
 | [2032-largest-odd-number-in-string](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/2032-largest-odd-number-in-string) |
 ## Breadth-First Search
 |  |
@@ -533,6 +536,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1370-count-number-of-nice-subarrays](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/1370-count-number-of-nice-subarrays) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1612-avoid-flood-in-the-city](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/1612-avoid-flood-in-the-city) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3324-split-the-array](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/3324-split-the-array) |
@@ -641,6 +645,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0744-network-delay-time](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0744-network-delay-time) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0794-swim-in-rising-water](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0794-swim-in-rising-water) |
+| [1612-avoid-flood-in-the-city](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/1612-avoid-flood-in-the-city) |
 ## Shortest Path
 |  |
 | ------- |
