@@ -37,7 +37,7 @@ public:
 
         int n = s.size();
 
-        vector<int> divisors;
+        /*vector<int> divisors;
 
         for(int i = 1; i <= n; i++){
 
@@ -45,12 +45,12 @@ public:
 
                 divisors.push_back(i);
             }
-        }
+        }*/
 
 
-        for(int len : divisors){
+        for(int len = 1; len <= n; len++){
 
-            if(matchFreq(s, len)){
+            if(n % len == 0 && matchFreq(s, len)){
 
                 return len;
             }
