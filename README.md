@@ -443,6 +443,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2032-largest-odd-number-in-string](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/2032-largest-odd-number-in-string) |
+| [3395-minimum-length-of-anagram-concatenation](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/3395-minimum-length-of-anagram-concatenation) |
 ## Combinatorics
 |  |
 | ------- |
@@ -540,6 +541,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3324-split-the-array](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/3324-split-the-array) |
+| [3395-minimum-length-of-anagram-concatenation](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/3395-minimum-length-of-anagram-concatenation) |
 ## Counting
 |  |
 | ------- |
@@ -552,6 +554,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3324-split-the-array](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/3324-split-the-array) |
+| [3395-minimum-length-of-anagram-concatenation](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/3395-minimum-length-of-anagram-concatenation) |
 ## Merge Sort
 |  |
 | ------- |
