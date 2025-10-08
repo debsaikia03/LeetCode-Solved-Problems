@@ -37,6 +37,7 @@ public:
             //int countSuccess = potions.end() - itr;
 
             //alternate -> use user-defined binary search to find the lower_bound
+
             int idx = binarySearch(potions, potionStr);
 
             int countSuccess =  potions.size() - idx;
