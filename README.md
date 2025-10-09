@@ -173,6 +173,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3324-split-the-array](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/3324-split-the-array) |
 | [3397-find-the-integer-added-to-array-i](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/3397-find-the-integer-added-to-array-i) |
 | [3429-special-array-i](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/3429-special-array-i) |
+| [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Binary Search
 |  |
 | ------- |
@@ -587,6 +588,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1642-water-bottles](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/1642-water-bottles) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/2271-rearrange-array-elements-by-sign) |
 | [3336-water-bottles-ii](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/3336-water-bottles-ii) |
+| [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -669,6 +671,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0966-binary-subarrays-with-sum](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/1046-max-consecutive-ones-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/1370-count-number-of-nice-subarrays) |
+| [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Sliding Window
 |  |
 | ------- |
