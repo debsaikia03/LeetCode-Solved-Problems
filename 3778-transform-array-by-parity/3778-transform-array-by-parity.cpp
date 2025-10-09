@@ -1,5 +1,13 @@
 class Solution {
 public:
+
+    void swap(int& a, int& b){
+
+        int temp = a;
+        a = b;
+        b = temp;
+    }
+
     vector<int> transformArray(vector<int>& nums) {
         
         int i = 0;
@@ -16,8 +24,25 @@ public:
             i++;
         }
 
-        sort(nums.begin(), nums.end());
+        int j = nums.size() - 1;
+        i = 0;
 
+        while(i < j){
+
+            if(nums[i] == 0){
+
+                i++;
+            }else if(nums[j] == 1){
+
+                j--;
+            }else{
+
+                swap(nums[i], nums[j]);
+                i++;
+                j--;
+            }
+        }
+        
         return nums;
     }
 };
