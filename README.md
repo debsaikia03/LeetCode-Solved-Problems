@@ -173,6 +173,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3324-split-the-array](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/3324-split-the-array) |
 | [3397-find-the-integer-added-to-array-i](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/3397-find-the-integer-added-to-array-i) |
 | [3429-special-array-i](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/3429-special-array-i) |
+| [3778-transform-array-by-parity](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/3778-transform-array-by-parity) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Binary Search
 |  |
@@ -268,6 +269,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1256-rank-transform-of-an-array](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/1256-rank-transform-of-an-array) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [3778-transform-array-by-parity](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/3778-transform-array-by-parity) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -564,6 +566,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3242-count-elements-with-maximum-frequency](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3324-split-the-array](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/3324-split-the-array) |
 | [3395-minimum-length-of-anagram-concatenation](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/3395-minimum-length-of-anagram-concatenation) |
+| [3778-transform-array-by-parity](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/3778-transform-array-by-parity) |
 ## Merge Sort
 |  |
 | ------- |
