@@ -11,6 +11,7 @@ public:
 
         for(int i = n - 1; i >= 0; i--){
 
+            //If we can jump k steps ahead, add its energy
             if(i + k < n){
 
                 dp[i] = energy[i] + dp[i + k];
