@@ -174,6 +174,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3397-find-the-integer-added-to-array-i](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/3397-find-the-integer-added-to-array-i) |
 | [3429-special-array-i](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/3429-special-array-i) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3778-transform-array-by-parity](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/3778-transform-array-by-parity) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Binary Search
@@ -204,6 +205,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1612-avoid-flood-in-the-city](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/1612-avoid-flood-in-the-city) |
 | [1646-kth-missing-positive-number](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/1646-kth-missing-positive-number) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/3437-maximum-total-damage-with-spell-casting) |
 ## Matrix
 |  |
 | ------- |
@@ -270,6 +272,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1256-rank-transform-of-an-array](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/1256-rank-transform-of-an-array) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3778-transform-array-by-parity](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/3778-transform-array-by-parity) |
 ## Monotonic Stack
 |  |
@@ -315,6 +318,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2271-rearrange-array-elements-by-sign](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2481-strictly-palindromic-number](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/2481-strictly-palindromic-number) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/3437-maximum-total-damage-with-spell-casting) |
 ## Linked List
 |  |
 | ------- |
@@ -410,6 +414,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0954-maximum-sum-circular-subarray](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0954-maximum-sum-circular-subarray) |
 | [1250-longest-common-subsequence](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/1250-longest-common-subsequence) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/3437-maximum-total-damage-with-spell-casting) |
 ## Memoization
 |  |
 | ------- |
@@ -554,6 +559,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3242-count-elements-with-maximum-frequency](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3324-split-the-array](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/3324-split-the-array) |
 | [3395-minimum-length-of-anagram-concatenation](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/3395-minimum-length-of-anagram-concatenation) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/3437-maximum-total-damage-with-spell-casting) |
 ## Counting
 |  |
 | ------- |
@@ -567,6 +573,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3242-count-elements-with-maximum-frequency](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3324-split-the-array](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/3324-split-the-array) |
 | [3395-minimum-length-of-anagram-concatenation](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/3395-minimum-length-of-anagram-concatenation) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3778-transform-array-by-parity](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/3778-transform-array-by-parity) |
 ## Merge Sort
 |  |
