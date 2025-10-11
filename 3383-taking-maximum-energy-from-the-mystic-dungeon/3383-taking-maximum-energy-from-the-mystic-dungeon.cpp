@@ -14,13 +14,13 @@ public:
             //If we can jump k steps ahead, add its energy
             if(i + k < n){
 
-                dp[i] = energy[i] + dp[i + k];
+                energy[i] = energy[i] + energy[i + k];
             }else{
 
-                dp[i] = energy[i];
+                energy[i] = energy[i];
             }
 
-            maxEng = max(maxEng, dp[i]);
+            maxEng = max(maxEng, energy[i]);
         }
 
 
