@@ -7,7 +7,7 @@ public:
         int maxEng = -1000;
 
         //dp approach - tc & sc: O(n)
-        vector<int> dp(n);
+        //vector<int> dp(n);
 
         for(int i = n - 1; i >= 0; i--){
 
