@@ -455,6 +455,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0409-longest-palindrome](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0409-longest-palindrome) |
 | [0412-fizz-buzz](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0412-fizz-buzz) |
 | [0424-longest-repeating-character-replacement](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0424-longest-repeating-character-replacement) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0451-sort-characters-by-frequency) |
 | [0686-repeated-string-match](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0686-repeated-string-match) |
 | [0812-rotate-string](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0812-rotate-string) |
@@ -549,6 +550,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0409-longest-palindrome](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0409-longest-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0424-longest-repeating-character-replacement) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0560-subarray-sum-equals-k) |
@@ -700,6 +702,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0003-longest-substring-without-repeating-characters](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0424-longest-repeating-character-replacement) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0966-binary-subarrays-with-sum](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/1046-max-consecutive-ones-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/1370-count-number-of-nice-subarrays) |
