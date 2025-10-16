@@ -170,6 +170,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2271-rearrange-array-elements-by-sign](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3324-split-the-array](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/3324-split-the-array) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
@@ -382,6 +383,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2032-largest-odd-number-in-string](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/2032-largest-odd-number-in-string) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2481-strictly-palindromic-number](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/2481-strictly-palindromic-number) |
+| [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [3336-water-bottles-ii](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/3336-water-bottles-ii) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Recursion
@@ -496,6 +498,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1612-avoid-flood-in-the-city](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/1612-avoid-flood-in-the-city) |
 | [2032-largest-odd-number-in-string](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/2032-largest-odd-number-in-string) |
+| [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -570,6 +573,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1612-avoid-flood-in-the-city](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/1612-avoid-flood-in-the-city) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/1890-sum-of-beauty-of-all-substrings) |
+| [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3324-split-the-array](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/3324-split-the-array) |
 | [3395-minimum-length-of-anagram-concatenation](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/3395-minimum-length-of-anagram-concatenation) |
