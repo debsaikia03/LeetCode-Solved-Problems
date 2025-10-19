@@ -68,4 +68,6 @@ public:
 
         return -1;
     }
+
+    //tc & sc: O(n^w), n->digits(10) , w->wheels(4)
 };
