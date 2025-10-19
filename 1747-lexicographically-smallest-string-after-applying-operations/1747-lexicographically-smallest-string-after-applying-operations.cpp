@@ -54,4 +54,5 @@ public:
 
         return smallestString;
     }
+    //tc & sc: O(n^2)
 };
