@@ -473,6 +473,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
+| [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2032-largest-odd-number-in-string](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/2032-largest-odd-number-in-string) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
@@ -521,6 +522,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0744-network-delay-time](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0744-network-delay-time) |
 | [0794-swim-in-rising-water](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0794-swim-in-rising-water) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -667,6 +669,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0744-network-delay-time](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0744-network-delay-time) |
 | [0794-swim-in-rising-water](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0794-swim-in-rising-water) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 ## Trie
 |  |
 | ------- |
@@ -823,6 +826,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0204-count-primes) |
+| [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 ## Number Theory
 |  |
 | ------- |
