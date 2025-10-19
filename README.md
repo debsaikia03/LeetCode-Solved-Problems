@@ -140,6 +140,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0621-task-scheduler](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0621-task-scheduler) |
 | [0724-find-pivot-index](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0733-flood-fill) |
+| [0753-open-the-lock](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0753-open-the-lock) |
 | [0792-binary-search](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0792-binary-search) |
 | [0794-swim-in-rising-water](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0794-swim-in-rising-water) |
 | [0835-linked-list-components](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0835-linked-list-components) |
@@ -466,6 +467,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0438-find-all-anagrams-in-a-string](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0451-sort-characters-by-frequency) |
 | [0686-repeated-string-match](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0686-repeated-string-match) |
+| [0753-open-the-lock](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0753-open-the-lock) |
 | [0812-rotate-string](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0812-rotate-string) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1078-remove-outermost-parentheses](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/1078-remove-outermost-parentheses) |
@@ -520,6 +522,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0417-pacific-atlantic-water-flow](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0417-pacific-atlantic-water-flow) |
 | [0733-flood-fill](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0733-flood-fill) |
 | [0744-network-delay-time](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0744-network-delay-time) |
+| [0753-open-the-lock](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0753-open-the-lock) |
 | [0794-swim-in-rising-water](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0794-swim-in-rising-water) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
@@ -568,6 +571,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0496-next-greater-element-i](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0621-task-scheduler) |
+| [0753-open-the-lock](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0753-open-the-lock) |
 | [0835-linked-list-components](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0835-linked-list-components) |
 | [0876-hand-of-straights](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0876-hand-of-straights) |
 | [0966-binary-subarrays-with-sum](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0966-binary-subarrays-with-sum) |
