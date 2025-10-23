@@ -395,6 +395,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2481-strictly-palindromic-number](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/2481-strictly-palindromic-number) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [3336-water-bottles-ii](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/3336-water-bottles-ii) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Recursion
 |  |
@@ -488,10 +489,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3395-minimum-length-of-anagram-concatenation](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/3395-minimum-length-of-anagram-concatenation) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Combinatorics
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0062-unique-paths) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Greedy
 |  |
@@ -637,6 +640,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/2271-rearrange-array-elements-by-sign) |
 | [3336-water-bottles-ii](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/3336-water-bottles-ii) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Bit Manipulation
 |  |
@@ -850,6 +854,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0204-count-primes](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0204-count-primes) |
 | [1585-the-kth-factor-of-n](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/1585-the-kth-factor-of-n) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/2106-find-greatest-common-divisor-of-array) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Database
 |  |
 | ------- |
