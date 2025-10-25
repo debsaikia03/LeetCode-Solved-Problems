@@ -390,6 +390,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1370-count-number-of-nice-subarrays](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/1370-count-number-of-nice-subarrays) |
 | [1585-the-kth-factor-of-n](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/1585-the-kth-factor-of-n) |
 | [1642-water-bottles](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/1642-water-bottles) |
+| [1817-calculate-money-in-leetcode-bank](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [2032-largest-odd-number-in-string](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/2032-largest-odd-number-in-string) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/2174-next-greater-numerically-balanced-number) |
