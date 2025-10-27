@@ -9,6 +9,7 @@ public:
         while(i < j){
 
             int area = 0;
+            
             if(height[i] < height[j]){
  
                 area = height[i] * (j - i);
