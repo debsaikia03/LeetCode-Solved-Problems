@@ -138,6 +138,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0561-array-partition](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0561-array-partition) |
 | [0611-valid-triangle-number](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0611-valid-triangle-number) |
 | [0621-task-scheduler](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0621-task-scheduler) |
+| [0648-replace-words](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0648-replace-words) |
 | [0724-find-pivot-index](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0733-flood-fill) |
 | [0753-open-the-lock](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0753-open-the-lock) |
@@ -488,6 +489,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0424-longest-repeating-character-replacement](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0451-sort-characters-by-frequency) |
+| [0648-replace-words](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0648-replace-words) |
 | [0686-repeated-string-match](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0686-repeated-string-match) |
 | [0753-open-the-lock](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0753-open-the-lock) |
 | [0812-rotate-string](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0812-rotate-string) |
@@ -598,6 +600,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0496-next-greater-element-i](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0621-task-scheduler) |
+| [0648-replace-words](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0648-replace-words) |
 | [0753-open-the-lock](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0753-open-the-lock) |
 | [0835-linked-list-components](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0835-linked-list-components) |
 | [0876-hand-of-straights](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0876-hand-of-straights) |
@@ -714,6 +717,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0014-longest-common-prefix) |
+| [0648-replace-words](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0648-replace-words) |
 ## String Matching
 |  |
 | ------- |
