@@ -163,6 +163,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1612-avoid-flood-in-the-city](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/1612-avoid-flood-in-the-city) |
+| [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1646-kth-missing-positive-number](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/1646-kth-missing-positive-number) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/1927-maximum-ascending-subarray-sum) |
@@ -253,6 +254,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0943-sum-of-subarray-minimums](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0943-sum-of-subarray-minimums) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1078-remove-outermost-parentheses](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/1078-remove-outermost-parentheses) |
+| [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [2227-sum-of-subarray-ranges](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/2227-sum-of-subarray-ranges) |
 ## Sorting
@@ -304,6 +306,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0503-next-greater-element-ii](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0503-next-greater-element-ii) |
 | [0883-car-fleet](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0883-car-fleet) |
 | [0943-sum-of-subarray-minimums](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0943-sum-of-subarray-minimums) |
+| [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [2227-sum-of-subarray-ranges](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/2227-sum-of-subarray-ranges) |
 ## Two Pointers
 |  |
@@ -443,6 +446,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0954-maximum-sum-circular-subarray](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0954-maximum-sum-circular-subarray) |
 | [1250-longest-common-subsequence](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/1250-longest-common-subsequence) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
@@ -524,6 +528,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1612-avoid-flood-in-the-city](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/1612-avoid-flood-in-the-city) |
+| [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [2032-largest-odd-number-in-string](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/2032-largest-odd-number-in-string) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
