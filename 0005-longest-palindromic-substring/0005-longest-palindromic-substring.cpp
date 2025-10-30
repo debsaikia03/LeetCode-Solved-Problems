@@ -1,75 +1,41 @@
 class Solution {
 public:
-    
-    //with memoization
-    int dp[1001][1001];
-    bool solve(string &s, int l, int r){
-         
-        if(l >= r) return true;
-
-        if(dp[l][r] != -1)
-            return dp[l][r];
-
-        if(s[l] == s[r]) 
-            return dp[l][r] = solve(s, l+1, r-1);
-
-        return dp[l][r] = false;
-    }
-
     string longestPalindrome(string s) {
-       
-        int n = s.size();
+        // Transform the string
+        string t = "#";
+        for (char c : s) t += c, t += '#';
+        int n = t.size();
 
-        int maxL =  INT_MIN;
+        vector<int> p(n, 0);
+        int c = 0, r = 0, maxLen = 0, center = 0;
 
-        int startIdx = 0;
+        for (int i = 0; i < n; i++) {
+            int mirror = 2 * c - i;
+            if (i < r) p[i] = min(r - i, p[mirror]);
 
-        memset(dp, -1, sizeof(dp));
+            // Expand around center i
+            int a = i + (1 + p[i]);
+            int b = i - (1 + p[i]);
+            while (a < n && b >= 0 && t[a] == t[b]) {
+                p[i]++;
+                a++;
+                b--;
+            }
 
-        for(int i = 0; i < n; i++){
-            for(int j = i; j < n; j++){
-                if(j-i+1 > maxL && solve(s, i, j)){
-                    startIdx = i;
-                    maxL = j-i+1;
-                }    
+            // Update center and right boundary
+            if (i + p[i] > r) {
+                c = i;
+                r = i + p[i];
+            }
+
+            // Track longest palindrome
+            if (p[i] > maxLen) {
+                maxLen = p[i];
+                center = i;
             }
         }
 
-        return s.substr(startIdx, maxL);
+        int start = (center - maxLen) / 2;
+        return s.substr(start, maxLen);
     }
-    
-    //no memoization
-    /*bool solve(string &s, int i, int j){
-
-        while(i < j){
-
-            if(s[i] != s[j]) return false;
-
-            i++;
-            j--;
-        }
-
-        return true;
-    }
-
-    string longestPalindrome(string s) {
-     
-        int n = s.size();
-
-        int maxLength = INT_MIN;
-        int startPt = -1;
-
-        for(int i = 0; i < n; i++){
-            for(int j = i; j < n; j++){
-
-                if(j - i + 1 > maxLength && solve(s, i, j)){
-                    
-                    maxLength = j - i + 1;
-                    startPt = i;
-                }
-            }
-        }
-
-        return s.substr(startPt, maxLength);
-    }*/
 };
