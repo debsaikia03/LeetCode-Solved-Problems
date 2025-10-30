@@ -12,15 +12,15 @@ public:
 
                 freq[s[j]]++;
 
-                int maxF = 0, minF = INT_MAX;
+                int maxFreq = 0, minFreq = INT_MAX;
 
                 for(auto& [ch, count] : freq){ //O(26) : O(1) 
 
-                    maxF = max(maxF, count);
-                    minF = min(minF, count);
+                    maxFreq = max(maxFreq, count);
+                    minFreq = min(minFreq, count);
                 }
 
-                total += (maxF - minF);
+                total += (maxFreq - minFreq);
             }
         }
         
