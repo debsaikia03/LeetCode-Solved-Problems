@@ -405,6 +405,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2032-largest-odd-number-in-string](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/2032-largest-odd-number-in-string) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/2174-next-greater-numerically-balanced-number) |
+| [2187-vowels-of-all-substrings](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/2187-vowels-of-all-substrings) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2481-strictly-palindromic-number](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/2481-strictly-palindromic-number) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
@@ -452,6 +453,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1250-longest-common-subsequence](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/1250-longest-common-subsequence) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [2187-vowels-of-all-substrings](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/2187-vowels-of-all-substrings) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
@@ -507,6 +509,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1960-check-if-the-sentence-is-pangram](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2032-largest-odd-number-in-string](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/2032-largest-odd-number-in-string) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2187-vowels-of-all-substrings](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/2187-vowels-of-all-substrings) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
@@ -516,6 +519,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0062-unique-paths) |
+| [2187-vowels-of-all-substrings](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/2187-vowels-of-all-substrings) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Greedy
