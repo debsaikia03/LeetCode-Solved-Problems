@@ -4,8 +4,6 @@ public:
         
         unordered_map<int, int> freq;
 
-        int count = 0;
-
         vector<int> res;
 
         for(int num : nums){
