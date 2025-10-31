@@ -18,6 +18,6 @@ public:
             }
         }
 
-        return t.size() - j;
+        return strLen2 - j;
     }
 };
