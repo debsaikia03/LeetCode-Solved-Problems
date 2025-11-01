@@ -183,6 +183,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3397-find-the-integer-added-to-array-i](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/3397-find-the-integer-added-to-array-i) |
 | [3429-special-array-i](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/3429-special-array-i) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/3437-maximum-total-damage-with-spell-casting) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/3616-make-array-elements-equal-to-zero) |
@@ -373,6 +374,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0838-design-linked-list](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0838-design-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0908-middle-of-the-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Math
 |  |
 | ------- |
@@ -632,6 +634,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3324-split-the-array](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/3324-split-the-array) |
 | [3395-minimum-length-of-anagram-concatenation](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/3395-minimum-length-of-anagram-concatenation) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/3437-maximum-total-damage-with-spell-casting) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Counting
 |  |
