@@ -22,7 +22,7 @@ public:
 
         while(r != nullptr){
 
-            if(st.count(r->val)){
+            if(st.count(r->val)){//lookup: O(1)
 
                prev->next = r->next;
                r = r->next;
