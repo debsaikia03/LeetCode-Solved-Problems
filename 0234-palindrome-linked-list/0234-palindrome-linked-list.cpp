@@ -8,55 +8,51 @@
  *     ListNode(int x, ListNode *next) : val(x), next(next) {}
  * };
  */
-
 class Solution {
 public:
 
-    // Function to reverse a linked list
-    // Returns the new head of the reversed list
-    ListNode* reverseList(ListNode* head) {
-        ListNode* temp = head;       // Current node pointer
-        ListNode* prev = nullptr;    // Previous node pointer
+    ListNode* reverseList(ListNode* head){
 
-        while (temp != nullptr) {
-            ListNode* front = temp->next; // Save next node
-            temp->next = prev;            // Reverse the link
-            prev = temp;                  // Move 'prev' forward
-            temp = front;                  // Move 'temp' forward
+        ListNode* prev = nullptr;
+        ListNode* temp = head;
+
+        while(temp != nullptr){
+
+            ListNode* front = temp->next;
+            temp->next = prev;
+            prev = temp;
+            temp = front;
         }
 
-        return prev; // 'prev' will be the new head after reversal
+        return prev;
     }
-    
+
     bool isPalindrome(ListNode* head) {
-        // Edge case: 0 or 1 node is always a palindrome
-        if (!head || !head->next) return true;
+        
+        if(!head || !head->next) return true;
 
-        // Step 1: Find the middle of the linked list using slow & fast pointers
-        ListNode *slow = head, *fast = head;
-        while (fast && fast->next) {
-            slow = slow->next;           // Move slow by 1 step
-            fast = fast->next->next;     // Move fast by 2 steps
+        ListNode* fast = head;
+        ListNode* slow = head;
+
+        while(fast && fast->next){
+
+            slow = slow->next;
+            fast = fast->next->next;
         }
-        // Now 'slow' points to the middle node
 
-        // Step 2: Reverse the second half of the list starting from 'slow'
         slow = reverseList(slow);
 
-        // Step 3: Compare the first half and the reversed second half
-        ListNode* firstHalf = head;
-        ListNode* secondHalf = slow; // This is now the head of the reversed part
+        while(slow){
 
-        while (secondHalf) {
-            if (firstHalf->val != secondHalf->val) 
-                return false; // If mismatch found, it's not a palindrome
+            if(slow->val != head->val){
 
-            // Move both pointers forward
-            firstHalf = firstHalf->next;
-            secondHalf = secondHalf->next;
+                return false;
+            }
+
+            slow = slow->next;
+            head = head->next;
         }
 
-        // Step 4: If all matched, it's a palindrome
         return true;
     }
 };
