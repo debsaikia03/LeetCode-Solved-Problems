@@ -14,6 +14,31 @@ public:
 
         if(!head) return nullptr;
 
+        //1-pass solution
+        //slow-fast pointer
+        //slightly more optimal
+
+        ListNode *fast = head, *slow = head;
+
+        while(n--){
+
+           fast = fast->next;
+        }
+
+        if(!fast) return head->next;
+
+        while(fast->next){
+
+            slow = slow->next;
+            fast = fast->next;
+        }
+
+        slow->next = slow->next->next;
+
+        return head;
+
+        //2-pass solution
+        /*
         int len = 0;
 
         ListNode* r = head;
@@ -26,7 +51,7 @@ public:
 
         if (n == len) return head->next; 
 
-        int prevDeleteNode = len - n - 1;//find the node before the delete node
+        int prevDeleteNode = len - n - 1;//find the node before the needed delete node
 
         r = head;
 
@@ -39,5 +64,6 @@ public:
         r->next = r->next->next;
 
         return head;
+        */
     }
 };
