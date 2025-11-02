@@ -1,53 +1,62 @@
+/**
+ * Definition for singly-linked list.
+ * struct ListNode {
+ *     int val;
+ *     ListNode *next;
+ *     ListNode() : val(0), next(nullptr) {}
+ *     ListNode(int x) : val(x), next(nullptr) {}
+ *     ListNode(int x, ListNode *next) : val(x), next(next) {}
+ * };
+ */
 class Solution {
 public:
     ListNode* mergeTwoLists(ListNode* list1, ListNode* list2) {
-        
-        // If one of the lists is empty, return the other
-        if (!list1) return list2;
-        if (!list2) return list1;
 
-        ListNode* newHead = nullptr; // Head of the merged list
-        ListNode* newTail = nullptr; // Tail pointer for building merged list
+        if(!list1) return list2;
+        if(!list2) return list1;
 
-        // Step 1: Initialize the head with the smaller of the two first nodes
-        if (list1->val <= list2->val) {
-            newHead = newTail = list1; // Both head and tail point to first node
-            list1 = list1->next;       // Move list1 forward
-        } else {
+        ListNode* newHead = nullptr;
+        ListNode* newTail = nullptr;
+
+        if(list1->val < list2->val){
+
+            newHead = newTail = list1;
+            list1 = list1->next;
+        }else{
+
             newHead = newTail = list2;
-            list2 = list2->next;       // Move list2 forward
+            list2 = list2->next;
         }
 
-        // Step 2: Traverse both lists until one becomes empty
-        while (list1 && list2) {
-            if (list1->val <= list2->val) {
-                // Attach list1's current node to the merged list
-                newTail->next = list1;
-                newTail = list1;       // Move the tail forward
-                list1 = list1->next;   // Advance list1
-            } else {
-                // Attach list2's current node to the merged list
+        while(list1 && list2){
+
+            if(list1->val < list2->val){
+
+               newTail->next = list1;
+               newTail = list1;
+               list1 = list1->next;
+            }else{
+
                 newTail->next = list2;
-                newTail = list2;       // Move the tail forward
-                list2 = list2->next;   // Advance list2
+                newTail = list2;
+                list2 = list2->next;
             }
         }
+        
+        while(list1){
 
-        // Step 3: Attach any remaining nodes from list1
-        while (list1) {
-            newTail->next = list1;     // Link remaining nodes
-            newTail = list1;           // Move the tail
-            list1 = list1->next;       // Advance list1
+            newTail->next = list1;
+            newTail = list1;
+            list1 = list1->next;
         }
 
-        // Step 4: Attach any remaining nodes from list2
-        while (list2) {
-            newTail->next = list2;     // Link remaining nodes
-            newTail = list2;           // Move the tail
-            list2 = list2->next;       // Advance list2
+        while(list2){
+
+            newTail->next = list2;
+            newTail = list2;
+            list2 = list2->next;
         }
 
-        // Return the head of the merged list
         return newHead;
     }
 };
