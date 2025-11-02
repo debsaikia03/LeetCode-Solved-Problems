@@ -9,20 +9,23 @@
 class Solution {
 public:
     bool hasCycle(ListNode *head) {
+        //if the list is empty or has only one node, it can't have a cycle
+        if (!head || !head->next) return false;
 
-        if(!head || !head->next) return false;
-        
-        ListNode* fast = head;
+        //slow moves 1 step at a time, fast moves 2 steps
         ListNode* slow = head;
+        ListNode* fast = head;
 
-        while(fast && fast->next){
+        //continue while fast can take two steps ahead
+        while (fast && fast->next) {
+            slow = slow->next;           //move slow pointer by 1 step
+            fast = fast->next->next;     //move fast pointer by 2 steps
 
-            slow = slow->next;
-            fast = fast->next->next;
-
-            if(slow == fast) return true;
+            //if slow and fast meet, it means there is a cycle
+            if (slow == fast) return true;
         }
 
+        //if fast reaches the end (nullptr), there is no cycle
         return false;
     }
 };
