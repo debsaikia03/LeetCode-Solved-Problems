@@ -29,7 +29,7 @@ public:
     }
     
     bool isPalindrome(ListNode* head) {
-        //fdge case: 0 or 1 node is always a palindrome
+        //edge case: 0 or 1 node is always a palindrome
         if (!head || !head->next) return true;
 
         //find the middle of the linked list using slow & fast pointers
