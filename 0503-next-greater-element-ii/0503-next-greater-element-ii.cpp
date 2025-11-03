@@ -17,9 +17,10 @@ public:
                 stk.pop();  //pop smaller elements
             }
             
-            //if stack not empty then top element is next greater
+            //if stack gets empty then put -1
             if(stk.empty()) ans[idx] = -1;
 
+            //if stack not empty then top element is next greater
             else ans[idx] = nums[stk.top()];
 
             //push current index to stack
