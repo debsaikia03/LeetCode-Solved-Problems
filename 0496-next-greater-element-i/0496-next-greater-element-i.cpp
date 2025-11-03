@@ -20,11 +20,10 @@ public:
             }
 
             //if stack becomes empty, no greater element exists to the right
-            if (stk.empty()) 
-                mpp[nums2[i]] = -1;
-            else 
-                //the top of the stack is the next greater element
-                mpp[nums2[i]] = stk.top();
+            if (stk.empty()) mpp[nums2[i]] = -1;
+
+            //the top of the stack is the next greater element
+            else mpp[nums2[i]] = stk.top();
 
             //push current element to stack for future comparisons
             stk.push(nums2[i]);
