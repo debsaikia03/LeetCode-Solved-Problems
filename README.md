@@ -141,6 +141,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0648-replace-words](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0648-replace-words) |
 | [0724-find-pivot-index](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0733-flood-fill) |
+| [0735-asteroid-collision](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0735-asteroid-collision) |
 | [0753-open-the-lock](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0753-open-the-lock) |
 | [0792-binary-search](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0792-binary-search) |
 | [0794-swim-in-rising-water](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0794-swim-in-rising-water) |
@@ -253,6 +254,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0402-remove-k-digits](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0503-next-greater-element-ii) |
+| [0735-asteroid-collision](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0735-asteroid-collision) |
 | [0883-car-fleet](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0883-car-fleet) |
 | [0943-sum-of-subarray-minimums](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0943-sum-of-subarray-minimums) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0957-minimum-add-to-make-parentheses-valid) |
@@ -678,6 +680,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0054-spiral-matrix](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0059-spiral-matrix-ii) |
 | [0412-fizz-buzz](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0412-fizz-buzz) |
+| [0735-asteroid-collision](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/0735-asteroid-collision) |
 | [1642-water-bottles](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/1642-water-bottles) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2169-simple-bank-system](https://github.com/debsaikia03/LeetCode-Solved-Problems/tree/master/2169-simple-bank-system) |
