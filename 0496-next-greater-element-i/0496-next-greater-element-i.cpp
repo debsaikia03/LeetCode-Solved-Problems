@@ -2,28 +2,41 @@ class Solution {
 public:
     vector<int> nextGreaterElement(vector<int>& nums1, vector<int>& nums2) {
         
-        unordered_map<int,int> mpp;
+        int n1 = nums1.size(), n2 = nums2.size();
+
+        //map to store the next greater element of each number in nums2
+        unordered_map<int, int> mpp;
+
+        //stack to maintain elements in decreasing order (monotonic stack)
         stack<int> stk;
 
-        for(int i = nums2.size()-1; i >= 0; i--){
+        //traverse nums2 from right to left
+        for (int i = n2 - 1; i >= 0; i--) {
 
-            while(!stk.empty() && stk.top() <= nums2[i]){
+            //pop elements from stack while they are smaller or equal
+            //because they cannot be the next greater for the current element
+            while (!stk.empty() && stk.top() <= nums2[i]) {
                 stk.pop();
             }
 
-            if(stk.empty()) mpp[nums2[i]] = -1;
+            //if stack becomes empty, no greater element exists to the right
+            if (stk.empty()) 
+                mpp[nums2[i]] = -1;
+            else 
+                //the top of the stack is the next greater element
+                mpp[nums2[i]] = stk.top();
 
-            else mpp[nums2[i]] = stk.top();
-
+            //push current element to stack for future comparisons
             stk.push(nums2[i]);
         }
 
+        //result vector to store next greater elements for nums1
         vector<int> ans;
 
-        for(int i = 0; i < nums1.size(); i++){
-
+        //for each element in nums1, retrieve its next greater from the map
+        for (int i = 0; i < nums1.size(); i++) {
             ans.push_back(mpp[nums1[i]]);
-        } 
+        }
 
         return ans;
     }
